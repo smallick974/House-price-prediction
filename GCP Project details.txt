@@ -3,6 +3,8 @@ Project name - ML-projects
 Project number - 105717193570
 Project ID - dulcet-antler-403116
 
+Bucket - house-prediction-bucket
+
 Vertex AI workbench region - us-central1-a
 
 Python 3.10.12
